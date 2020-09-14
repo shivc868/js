@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.active {
+    text-align: center;
+    background: yellow;
+    border-radius: 20px;
+    padding: 20px;
+    width: 300px;
+    transition: .4s ease;
+    margin: auto;
+}
+li{
+    list-style: none;
+    font-size: 48px;
+    text-transform: capitalize;
+    cursor: pointer;
+    width: 20%;
+    margin: auto;
+}
+li:hover{
+    background: lightblue;
+}
+.item{
+    font-size: 20px;
+}
