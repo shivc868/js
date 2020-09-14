@@ -13,7 +13,7 @@ body{
 }
 li{
     list-style: none;
-    font-size: 48px;
+    font-size: 46px;
     text-transform: capitalize;
     cursor: pointer;
     width: 20%;
